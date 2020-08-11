@@ -1,0 +1,16 @@
+Nombre: erere
+Apellido: erer
+Edad: 0
+
+Nombre: rt
+Apellido: rttr
+Edad: 45
+
+Nombre: rt
+Apellido: rttrtrtrtr
+Edad: 45
+
+Nombre: erick
+Apellido: andrade
+Edad: 25
+
